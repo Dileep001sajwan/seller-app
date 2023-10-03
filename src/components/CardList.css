@@ -1,0 +1,18 @@
+/* .container{
+    background-color: red;
+    .row{
+        .col-md-3{
+            .card{
+                .list-group{
+                    display: flex;
+                    justify-content: space-between;
+                }
+            }
+        }
+    }
+} */
+
+.container .row .col-md-3 .card .list-group{
+    display: flex;
+    justify-content: space-between;
+}

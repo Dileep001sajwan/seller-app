@@ -1,0 +1,102 @@
+{
+    "cars": [
+      {
+        "make": "Toyota",
+        "model": "Camry",
+        "year": 2022,
+        "color": "Silver",
+        "price": 25000,
+        "image": "https://i.postimg.cc/7ZT1Rj3V/front-left-side-47.webp"
+      },
+      {
+        "make": "Honda",
+        "model": "Civic",
+        "year": 2022,
+        "color": "Red",
+        "price": 23000,
+        "image": "https://i.postimg.cc/X7qTDKs8/Honda-Civic.webp"
+      },
+      {
+        "make": "Ford",
+        "model": "Mustang",
+        "year": 2022,
+        "color": "Blue",
+        "price": 35000,
+        "image": "https://i.postimg.cc/HWcNwWnZ/20200707011041-Mustang-1.jpg"
+      },
+      {
+        "make": "Toyota",
+        "model": "Camry",
+        "year": 2022,
+        "color": "Silver",
+        "price": 25000,
+        "image": "https://i.postimg.cc/7ZT1Rj3V/front-left-side-47.webp"
+      },
+      {
+        "make": "Honda",
+        "model": "Civic",
+        "year": 2022,
+        "color": "Red",
+        "price": 23000,
+        "image": "https://i.postimg.cc/X7qTDKs8/Honda-Civic.webp"
+      },
+      {
+        "make": "Ford",
+        "model": "Mustang",
+        "year": 2022,
+        "color": "Blue",
+        "price": 35000,
+        "image": "https://i.postimg.cc/HWcNwWnZ/20200707011041-Mustang-1.jpg"
+      },
+      {
+        "make": "Toyota",
+        "model": "Camry",
+        "year": 2022,
+        "color": "Silver",
+        "price": 25000,
+        "image": "https://i.postimg.cc/7ZT1Rj3V/front-left-side-47.webp"
+      },
+      {
+        "make": "Honda",
+        "model": "Civic",
+        "year": 2022,
+        "color": "Red",
+        "price": 23000,
+        "image": "https://i.postimg.cc/X7qTDKs8/Honda-Civic.webp"
+      },
+      {
+        "make": "Ford",
+        "model": "Mustang",
+        "year": 2022,
+        "color": "Blue",
+        "price": 35000,
+        "image": "https://i.postimg.cc/HWcNwWnZ/20200707011041-Mustang-1.jpg"
+      },
+      {
+        "make": "Toyota",
+        "model": "Camry",
+        "year": 2022,
+        "color": "Silver",
+        "price": 25000,
+        "image": "https://i.postimg.cc/7ZT1Rj3V/front-left-side-47.webp"
+      },
+      {
+        "make": "Honda",
+        "model": "Civic",
+        "year": 2022,
+        "color": "Red",
+        "price": 23000,
+        "image": "https://i.postimg.cc/X7qTDKs8/Honda-Civic.webp"
+      },
+      {
+        "make": "Ford",
+        "model": "Mustang",
+        "year": 2022,
+        "color": "Blue",
+        "price": 35000,
+        "image": "https://i.postimg.cc/HWcNwWnZ/20200707011041-Mustang-1.jpg"
+      }
+    ]
+  }
+  
+  
