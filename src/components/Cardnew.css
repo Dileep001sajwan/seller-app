@@ -1,0 +1,22 @@
+/* CSS for image hover effect */
+.image-container {
+    overflow: hidden; /* Hide the overflowing parts of the image */
+  }
+  
+  .image-container img {
+    transition: transform 0.3s ease; /* Apply a smooth transition */
+  }
+  
+  .image-container:hover img {
+    transform: scale(1.1); /* Enlarge the image by 10% on hover */
+  }
+  
+  /* CSS for image hover effect and container border radius */
+  
+  .card-body1 {
+    border-radius: 8px; /* Add a border radius to the card body */
+    border: 1px solid #ddd; /* Add a border to the card body */
+    padding: 15px;
+    background-color: #fff; /* Set a background color for the card body */
+  }
+  
